@@ -30,7 +30,6 @@ Busco evoluir constantemente como desenvolvedor e profissional de tecnologia, ap
 ---
 
 ## 📂 Áreas de Interesse
-- Engenharia de Dados  
 - Automação de Processos  
 - ETL / Integração de Sistemas  
 - APIs  
@@ -41,7 +40,7 @@ Busco evoluir constantemente como desenvolvedor e profissional de tecnologia, ap
 
 ## 📫 Contato
 - **LinkedIn:** coloque seu link aqui  
-- **Email:** coloque seu email aqui  
+- **Email:** mateust.modesto@gmail.com 
 
 ---
 
