@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Mateus Thomasini Modesto
 
 ## 🚀 Sobre mim
-Sou formado em Técnico em Informática (2025) e atualmente curso **Bacharelado em Ciência da Computação** na Faculdade Anchieta. Atuo profissionalmente na própria instituição, com experiência prévia em SAP. Tenho grande interesse pela área de **dados**, trabalhando com Python, SQL, APIs e geração de relatórios.
+Sou formado em Técnico em Informática (2025) e atualmente curso **Bacharelado em Ciência da Computação** na Faculdade Anchieta. Já atuei em um consultoria SAP e atualmente atuo profissionalmente na própria instituição. Tenho grande interesse pela área de **dados**, trabalhando com Python, SQL, APIs e geração de relatórios.
 
 Busco evoluir constantemente como desenvolvedor e profissional de tecnologia, aprimorando minhas habilidades em engenharia de dados, automações e análise.
 
