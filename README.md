@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 Sou formado em Técnico em Informática (2025) e atualmente curso **Bacharelado em Ciência da Computação** na Faculdade Anchieta. Já atuei em um consultoria SAP e atualmente atuo profissionalmente na própria instituição. Tenho grande interesse pela área de **dados**, trabalhando com Python, SQL, APIs e geração de relatórios.
 
-Busco evoluir constantemente como desenvolvedor e profissional de tecnologia, aprimorando minhas habilidades em engenharia de dados, automações e análise.
+Busco evoluir constantemente como desenvolvedor e profissional de tecnologia, aprimorando minhas habilidades de dados, automações e análise.
 
 ---
 
@@ -29,19 +29,6 @@ Busco evoluir constantemente como desenvolvedor e profissional de tecnologia, ap
 
 ---
 
-## 📂 Áreas de Interesse
-- Automação de Processos  
-- ETL / Integração de Sistemas  
-- APIs  
-- Banco de Dados  
-- Python aplicado a análise e manipulação de dados  
-
----
-
 ## 📫 Contato
 - **LinkedIn:** coloque seu link aqui  
 - **Email:** mateust.modesto@gmail.com 
-
----
-
-⭐ *Obrigado por visitar meu perfil!*
