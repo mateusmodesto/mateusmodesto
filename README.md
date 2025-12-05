@@ -1,42 +1,44 @@
-<h2 align="center">✨ Mateus Thomasini Modesto</h2>
-<p align="center">Desenvolvedor focado em dados, automações e integrações</p>
+
+<h3 align="center">Analista de Dados | Automação | Infra Lógica</h3>
+<p align="center">Construindo soluções que começam no terminal e terminam em produção.</p>
 
 ---
 
-## 🧑‍💻 Sobre mim
-Formado em Técnico em Informática (2025) e estudante de **Ciência da Computação** na Faculdade Anchieta. Atuo profissionalmente na instituição, com experiências anteriores em consultoria SAP. Tenho grande interesse pela área de **dados**, trabalhando com Python, SQL, APIs e criação de relatórios automatizados.
+## 🔍 Quem sou eu
+Técnico em Informática e estudante de **Ciência da Computação**. Transitei por consultoria SAP e hoje trabalho na área de TI da Faculdade Anchieta, focado em **dados**, automação e integração.  
+Minha zona de conforto é um *prompt piscando*, um log estranho pedindo decodificação e um banco de dados cheio de segredos para extrair.
 
 ---
 
-## 🚀 Competências
-- Automação e extração de dados com **Python**
-- Consultas e modelagem com **SQL** (Oracle & SQL Server)
-- Integração com **APIs REST**
-- Criação de **relatórios automatizados**
-- Versionamento com **Git/GitHub**
-- Conceitos e práticas de engenharia e análise de dados
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
+## ⚙️ Stack / Toolset
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=fastapi&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff00"/>
 </p>
 
 ---
 
-## 📫 Contato
-- **LinkedIn:** *adicione seu link aqui*  
-- **Email:** **mateust.modesto@gmail.com**
+## 🧠 O que eu faço
+• Automação de fluxos usando Python  
+• Extração, limpeza e modelagem de dados  
+• Integração com APIs  
+• Análise e criação de relatórios inteligentes  
+• SQL “heavy duty” (Oracle & SQL Server)  
+• Versionamento e fluxo Git  
+• Troubleshooting raiz: análise de logs, debugging e sistemas legados  
 
 ---
 
-<p align="center">⚡ Buscando evoluir sempre como desenvolvedor e profissional da área de dados</p>
+## 📡 Contato direto
+**Email:** `mateust.modesto@gmail.com`  
+**LinkedIn:** *adicione aqui*  
+
+---
+
+<p align="center">“Em um mundo cheio de interfaces bonitas, ainda prefiro o poder bruto do terminal.”</p>
