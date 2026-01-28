@@ -31,7 +31,7 @@ Background in Python scripting, SQL optimization and API pipelines.
 
 ## 📡 Contact
 `mateust.modesto@gmail.com`  
-LinkedIn: [*add your link*](https://www.linkedin.com/in/mateus-modesto-213651270/)
+LinkedIn: [*mateusmodesto*](https://www.linkedin.com/in/mateus-modesto-213651270/)
 
 ---
 
